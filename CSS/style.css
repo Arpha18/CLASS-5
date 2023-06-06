@@ -1,0 +1,27 @@
+#product{
+    width: 300px;
+    height: 700px;
+    padding: 30px; 
+    margin: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-sizing: border-box;
+    
+}
+#price{
+    color: #f04a23;
+    text-align: center;
+}
+#buy{
+    background-color: #ebedf8;
+    border: 5px;
+    width: 200px;
+    height: 30px;
+}
+#add{
+    background-color: 
+    #fafafa;
+    border: 5px;
+    width: 200px;
+    height: 30px;
+}
